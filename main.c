@@ -2,6 +2,6 @@
 
 int main() {
     printf("Student Attendance System\n");
-    printf("Login feature implemented\n");
+    printf("login page successfully implemented");
     return 0;
 }
